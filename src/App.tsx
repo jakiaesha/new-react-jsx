@@ -1,6 +1,7 @@
 import Nav from './components/Nav'
 import Banner from './components/Banner'
 import Technologies from './components/Technologies'
+import Footer from './components/Footer'
 function App() {
  
 
@@ -9,6 +10,7 @@ function App() {
      <Nav />
      <Banner />
      <Technologies />
+     <Footer />
     </>
   )
 }
